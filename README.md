@@ -36,7 +36,7 @@ git push
 
 ###### 4. Merge feature branch to develop
 
-Pull Request
+Pull Request.
 
 ```bash
 git checkout develop
