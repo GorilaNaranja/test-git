@@ -9,9 +9,10 @@ Conflict **2** from feature/merge-conflict
 Conflict **3** from develop
 Conflict **3** from feature/merge-conflict
 
+Hey I'm the developer Nº1
 Yepa, im the 3º developer
 
-###### 1. Create develop branch.
+###### 1. Create develop branch
 
 Created new branch "develop" from master.
 
