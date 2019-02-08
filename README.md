@@ -8,7 +8,7 @@ Created new branch "develop" from master.
 git checkout -b develop
 ```
 
-###### 1. Create feature branch
+###### 2. Create feature branch
 
 Created new branch "feature/create-feature-branch" from develop.
 
