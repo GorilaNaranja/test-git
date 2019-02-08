@@ -15,3 +15,11 @@ Created new branch "feature/create-feature-branch" from develop.
 ```bash
 git checkout -b feature/create-feature-branch
 ```
+
+###### 3. Create commit and push to feature branch
+
+Created new branch "feature/create-feature-branch" from develop.
+
+```bash
+git checkout -b feature/create-feature-branch
+```
