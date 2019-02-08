@@ -13,15 +13,15 @@ Hey I'm the developer Nº1
 Hey im the second developer
 Yepa, im the 3º developer
 
-###### 1. Create develop branch.
+###### 1. Create develop branch
 
-Created new branch "develop" from master.
+Created new branch "develop" from masterl
 
 ```bash
 git checkout -b develop
 ```
 
-###### 2. Create feature branch.
+###### 2. Create feature branch´
 
 Created new branch "feature/create-feature-branch" from develop.
 
