@@ -1,10 +1,13 @@
 # TEST-GIT
 
 Conflict **1** from develop
+Conflict **1** from feature/merge-conflict
 
 Conflict **2** from develop
+Conflict **2** from feature/merge-conflict
 
 Conflict **3** from develop
+Conflict **3** from feature/merge-conflict
 
 ###### 1. Create develop branch
 
