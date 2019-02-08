@@ -9,6 +9,8 @@ Conflict **2** from feature/merge-conflict
 Conflict **3** from develop
 Conflict **3** from feature/merge-conflict
 
+Hey im the second developer
+
 ###### 1. Create develop branch.
 
 Created new branch "develop" from master.
