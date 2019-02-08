@@ -11,7 +11,7 @@ Conflict **3** from feature/merge-conflict
 
 Hey I'm the developer Nº1
 Hey im the second developer
-Yepa, im the 3º developer
+Yepa, im the 3º developer.
 
 ###### 1. Create develop branch.
 
