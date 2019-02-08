@@ -1,5 +1,11 @@
 # TEST-GIT
 
+Conflict **1** from develop
+
+Conflict **2** from develop
+
+Conflict **3** from develop
+
 ###### 1. Create develop branch
 
 Created new branch "develop" from master.
